@@ -1,5 +1,5 @@
 import React from 'react';
-import Room from './litRoom.js';
+import './litRoom.js';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';

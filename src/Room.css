@@ -1,13 +1,37 @@
 .room {
     height: 100vh;
+    align-content: center;
 }
+
+body{
+    align-content: center; 
+    text-align: center;
+ }
 
 .lit {
     background-color: white;
     color: black;
 }
 
+.on {
+    background-color: rgb(255, 255, 31);
+}
+.off {
+    background-color: rgb(44, 44, 44);
+    color: white;
+}
+
 .dark {
     background-color: black;
+    color: white;
+}
+
+.increase {
+    background-color: rgb(254, 32, 32);
+    color: white;
+}
+
+.decrease {
+    background-color: rgb(20, 149, 255);
     color: white;
 }
